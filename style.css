@@ -19,7 +19,8 @@ h1, h2, h3 {
 .min-title {display: none;}
 
 img {
-    width: 500px; /*mettere px*/
+    width: 100%;
+    max-width: 800px; /*mettere px*/
     height: 540px;
 }
 
