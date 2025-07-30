@@ -20,8 +20,8 @@ h1, h2, h3 {
 
 img {
     width: 100%;
-    max-width: 800px; /*mettere px*/
-    height: 540px;
+    max-width: 900px; /*mettere px*/
+    height: 500px;
 }
 
 p {
